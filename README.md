@@ -1,7 +1,7 @@
 # King Fahad Complex V1
 in width of 1024
 
-Source: [murtraja images_1024](https://github.com/murtraja/quran-android-images-helper/tree/master/static/images_1024) with only alpha 0 and 255.
+Source: [murtraja images_1024](https://github.com/murtraja/quran-android-images-helper/tree/master/static/images_1024) with only alpha 0 and full opacity.
 
 I optimized the images assuming the background was white by [Transparent-Image](https://github.com/mohamedashref371/Transparent-Image).
 
